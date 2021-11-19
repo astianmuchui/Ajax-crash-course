@@ -1,4 +1,5 @@
 <?php
+#No code here
 ?>
 <!DOCTYPE html>
 <html lang="en">
